@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/dwahyudi/inventory/configs/database"
-	"github.com/dwahyudi/inventory/configs/routes"
+	"inventory/configs/database"
+	"inventory/configs/routes"
 	"log"
 )
 
